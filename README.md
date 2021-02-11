@@ -2,18 +2,17 @@
 
 @copyright : 유민규, 최현아, 최지석, 주혜정
 
-
 ## 시연 동영상
 https://www.youtube.com/watch?v=APA3r63zcQU
 
 ### 시연 영상 첨부
-Team_OveerWorking_Video
+Team_OverWorking_Video
 
 ### SQL 
-Team_OveerWorking.sql
+Team_OverWorking.sql
 
 ### PDF
-Team_OveerWorking.pdf
+Team_OverWorking.pdf
 
 ### Whyn_MVC
-Team_OveerWorking_Whyn_MVC
+Team_OverWorking_Whyn_MVC
